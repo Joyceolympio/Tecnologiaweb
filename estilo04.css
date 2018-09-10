@@ -1,0 +1,20 @@
+input{
+    background-color: rgba(0, 204, 255, 0.904);
+    font-weight: bold
+}
+
+input:focus {
+    background-color: white;
+}
+
+.italico{
+    font-style: italic;
+}
+
+.grande{
+    width: 20%;
+}
+
+.pequeno{
+    width: 7%;
+}
